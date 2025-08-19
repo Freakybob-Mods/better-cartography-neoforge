@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:water_bucket",
+    "minecraft:filled_map"
+  ],
+  "result": {
+    "id": "minecraft:filled_map",
+    "count": 1
+  }
+}

@@ -1,5 +1,58 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Map",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "map",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_cartography_neoforge/advancement/recipes/map.json",
+          "src/main/resources/data/better_cartography_neoforge/recipe/map.json"
+        ]
+      }
+    },
+    {
+      "name": "Dupemap",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dupemap",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_cartography_neoforge/recipe/dupemap.json",
+          "src/main/resources/data/better_cartography_neoforge/advancement/recipes/dupemap.json"
+        ]
+      }
+    },
+    {
+      "name": "Dupepaper",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dupepaper",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_cartography_neoforge/recipe/dupepaper.json",
+          "src/main/resources/data/better_cartography_neoforge/advancement/recipes/dupepaper.json"
+        ]
+      }
+    },
+    {
+      "name": "Dupeemptymap",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dupeemptymap",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_cartography_neoforge/recipe/dupeemptymap.json",
+          "src/main/resources/data/better_cartography_neoforge/advancement/recipes/dupeemptymap.json"
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {},
