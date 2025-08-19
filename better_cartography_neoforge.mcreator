@@ -14,19 +14,6 @@
       }
     },
     {
-      "name": "Dupemap",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dupemap",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/better_cartography_neoforge/recipe/dupemap.json",
-          "src/main/resources/data/better_cartography_neoforge/advancement/recipes/dupemap.json"
-        ]
-      }
-    },
-    {
       "name": "Dupepaper",
       "type": "recipe",
       "compiles": true,
