@@ -38,6 +38,19 @@
           "src/main/resources/data/better_cartography_neoforge/advancement/recipes/dupeemptymap.json"
         ]
       }
+    },
+    {
+      "name": "Nametag",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nametag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/better_cartography_neoforge/advancement/recipes/nametag.json",
+          "src/main/resources/data/better_cartography_neoforge/recipe/nametag.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
